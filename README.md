@@ -18,3 +18,6 @@ Proyecto real con equipo multidisciplinar (desarrollo + diseño) y cliente inter
 
 ## Arquitectura (resumen)
 Frontend (web) ⇄ API REST (api) ⇄ SQL (DB)
+
+## 🎥 Demo del proyecto
+[▶️ Ver vídeo completo en YouTube](https://youtu.be/_sORKLl2Irs)
